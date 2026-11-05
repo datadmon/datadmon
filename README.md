@@ -10,6 +10,16 @@ Pay-per-result data APIs on [Apify](https://apify.com/data_daemon) for sources t
 | [uk-insolvency-monitor](https://github.com/datadmon/uk-insolvency-monitor) | Alert when a customer or supplier appears in The Gazette with a winding-up petition, order or administration (matched by Companies House number). |
 | [india-ipo-gmp-tracker](https://github.com/datadmon/india-ipo-gmp-tracker) | Today's IPO GMP, estimated listing price and subscription for mainboard and SME IPOs, with a daily GMP history and Telegram alerts. |
 
+### Python scrapers (tested clients with sample output)
+
+| Repository | What it scrapes |
+|---|---|
+| [naukri-jobs-scraper](https://github.com/datadmon/naukri-jobs-scraper) | Naukri.com jobs with salary in LPA, skills, applicants and full description |
+| [iimjobs-jobs-scraper](https://github.com/datadmon/iimjobs-jobs-scraper) | IIMJobs MBA, finance and management jobs |
+| [welcome-to-the-jungle-jobs-scraper](https://github.com/datadmon/welcome-to-the-jungle-jobs-scraper) | Welcome to the Jungle (WTTJ) jobs, France and abroad |
+| [gupy-jobs-scraper](https://github.com/datadmon/gupy-jobs-scraper) | Gupy vagas (Brazil): CLT, estágio, PJ, remoto, PcD |
+| [onlinejobs-ph-scraper](https://github.com/datadmon/onlinejobs-ph-scraper) | OnlineJobs.ph virtual-assistant jobs with parsed wages |
+
 ### Data APIs
 
 | Source | Apify Actor |
