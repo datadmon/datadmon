@@ -19,6 +19,7 @@ Pay-per-result data APIs on [Apify](https://apify.com/data_daemon) for sources t
 | [welcome-to-the-jungle-jobs-scraper](https://github.com/datadmon/welcome-to-the-jungle-jobs-scraper) | Welcome to the Jungle (WTTJ) jobs, France and abroad |
 | [gupy-jobs-scraper](https://github.com/datadmon/gupy-jobs-scraper) | Gupy vagas (Brazil): CLT, estágio, PJ, remoto, PcD |
 | [onlinejobs-ph-scraper](https://github.com/datadmon/onlinejobs-ph-scraper) | OnlineJobs.ph virtual-assistant jobs with parsed wages |
+| [career-site-jobs-scraper](https://github.com/datadmon/career-site-jobs-scraper) | Workday, Greenhouse, Lever, Ashby and SmartRecruiters career-site jobs, or 10,000+ company boards at once |
 
 ### Data APIs
 
